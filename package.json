@@ -1,0 +1,26 @@
+{
+  "name": "nodejstest",
+  "version": "1.0.0",
+  "description": "description du projet",
+  "main": "index.js",
+  "scripts": {
+    "test": "start",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sds912/nodejstest.git"
+  },
+  "keywords": [
+    "nodejstest"
+  ],
+  "author": "babacar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sds912/nodejstest/issues"
+  },
+  "homepage": "https://github.com/sds912/nodejstest#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
